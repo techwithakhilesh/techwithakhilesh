@@ -1,22 +1,24 @@
 <div align="center">
 
+<!-- HERO TITLE -->
 <h1>👋 Hi, I'm Akhilesh Kumar</h1>
 
 <h3>
 🚀 Full Stack JavaScript Developer | React • Next.js • Node.js • GenAI & Automation
 </h3>
 
-<img src="https://github.com/akhilesh/akhilesh/blob/main/assets/banner.gif?raw=true" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Frontend-first+Full+Stack+Developer;4%2B+Years+of+React.js+Experience;Next.js+%7C+Node.js+%7C+GenAI;AI-powered+Automation+Builder;Clean+Code+%7C+Scalability+%7C+Performance;Open+to+New+Opportunities" />
+<!-- TYPING ANIMATION -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Results-driven+Full+Stack+Developer;4%2B+Years+of+React.js+Experience;1%2B+Year+with+Next.js;1.5+Years+Node.js+%26+Express.js;Building+AI-powered+Automation;Clean+%26+Scalable+Web+Applications"
+  alt="Typing SVG"
+/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=akhilesh&style=flat-square&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/akhilesh?style=social"/>
-<img src="https://img.shields.io/github/stars/akhilesh?style=social"/>
+<!-- SOCIAL + METRICS -->
+<img src="https://komarev.com/ghpvc/?username=akhilesh&color=blueviolet&style=flat-square" />
+<img src="https://img.shields.io/github/followers/akhilesh?style=social" />
+<img src="https://img.shields.io/github/stars/akhilesh?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 
 <br/><br/>
 
@@ -36,14 +38,14 @@
 
 ## 🧠 About Me
 
-- 💻 Frontend-first **Full Stack JavaScript Developer**
-- ⚛️ Strong expertise in **React.js, Redux Toolkit, modern UI**
-- 🌐 SEO-optimized apps using **Next.js (SSR)**
-- 🔧 Backend APIs with **Node.js & Express.js**
-- 🤖 GenAI & Agentic AI using **LangChain & LangGraph**
-- 🔄 Automation with **n8n**
-- ☁️ CI/CD & Cloud: **Docker, Jenkins, AWS**
-- 🎯 Clean, scalable, production-ready code
+- 💻 **Frontend-first Full Stack Developer**
+- ⚛️ Strong expertise in **React.js**, state management & modern UI libraries  
+- 🌐 Built SEO-friendly apps using **Next.js (SSR)**  
+- 🔧 Backend APIs with **Node.js & Express.js**  
+- 🤖 Exploring **GenAI & Agentic AI** using **LangChain & LangGraph**  
+- 🔄 Business automation with **n8n**  
+- ☁️ Familiar with **Docker, Jenkins, AWS** for CI/CD & deployments  
+- 🎯 I care deeply about **clean code, scalability, and performance**
 
 ---
 
@@ -80,68 +82,65 @@
 
 ---
 
+### 🛠️ Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,linux,jira" />
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🎯 Enterprise React Dashboard
-📊 Scalable admin dashboard  
-**Tech:** React, Redux Toolkit, Formik, Yup, shadcn/ui  
+### 🔹 Enterprise React Application
+- React.js + Redux Toolkit  
+- Form handling with Formik & Yup  
+- Modern UI with shadcn/ui  
+- Performance-optimized architecture  
 
 ---
 
-### 🌐 Next.js Full Stack App
-⚡ SEO-optimized SSR application  
-**Tech:** Next.js, Node.js, MongoDB, JWT  
+### 🔹 Next.js Full Stack App
+- Server-Side Rendering (SSR)  
+- Node.js & Express backend  
+- JWT-based authentication  
+- Dockerized deployment  
 
 ---
 
-### 🤖 GenAI Automation Platform
-🤖 AI workflows & automation  
-**Tech:** LangChain, LangGraph, n8n, Node.js  
+### 🔹 GenAI Automation Platform
+- AI workflows using **LangChain**  
+- Agent-based flows using **LangGraph**  
+- Automation using **n8n**  
+- Integrated with Node.js APIs  
 
 ---
 
-### ⚡ CI/CD & DevOps Pipeline
-🚀 Automated build & deployment  
-**Tech:** Docker, Jenkins, AWS EC2  
+### 🔹 CI/CD Practice Project
+- Dockerized frontend & backend  
+- Jenkins CI/CD pipelines  
+- Deployed on AWS EC2  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhilesh&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=akhilesh&theme=radical&hide_border=true" width="80%" />
-
-</div>
+## 📈 What I’m Currently Working On
+- 🤖 Building **GenAI-powered automation tools**
+- ⚛️ Improving **frontend architecture & performance**
+- ☁️ Learning **advanced DevOps & cloud patterns**
+- 🎯 Preparing for **Full Stack / Frontend roles**
 
 ---
 
-## 📈 Contribution Activity
+## 🤝 Let’s Connect
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilesh&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Currently Working On
-- 🤖 GenAI-powered automation tools
-- ⚛️ Frontend architecture & performance
-- ☁️ Advanced DevOps & Cloud
-- 🤝 Open source contributions
+- 💼 LinkedIn: https://linkedin.com/in/akhilesh  
+- 🧑‍💻 GitHub: https://github.com/akhilesh  
+- 📧 Email: akhilesh@email.com  
 
 ---
 
 <div align="center">
 
-⭐ **If you like my work, consider giving a star!**
+⭐ **If you like my work, consider giving a star to my repositories!**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
